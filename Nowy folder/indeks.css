@@ -1,0 +1,24 @@
+	body {
+	background-image: url("indeks.jpg") ;
+	background-size: 100%;
+	font-family: sans-serif;
+	}
+	.tytul {
+	background-color: rgba( 0, 255, 0, 0.8);
+	text-align: center;
+	color: rgba( 0, 0, 0, 1);
+	}
+	.tekst {
+	background-color: rgba( 0, 255, 255, 0.8);
+	color: rgba( 0, 0, 0, 1);
+	font-size: 15px;
+	text-align: center;
+	}
+	
+	.naglowek {
+		background-color: rgba( 0, 255, 0, 0.9);
+		text-align: center;
+		color: rgba( 0, 0, 0, 1);
+		
+		 }
+		
